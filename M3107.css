@@ -1,0 +1,25 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    border: 1px solid black; 
+    width: 55%; 
+    background-color: antiquewhite;
+    margin-top: 50;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+#mychoice{
+    font-size: 60px;
+    text-align: center;
+}
+.title{
+  color:cornflowerblue
+}
+.group{
+    color:crimson
+}
+p{
+    color:chocolate
+}

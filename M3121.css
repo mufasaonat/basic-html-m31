@@ -1,0 +1,45 @@
+*{
+font-family:'Courier New', Courier, monospace
+
+
+}
+
+.container{
+    /* border: 1px solid burlywood; */
+    width: 50%;
+
+    background-color: #8887c4;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+}
+#mychoice{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px ;
+    text-align: center;
+    color:firebrick;
+   
+
+    
+} 
+#mychoice0{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px ;
+    text-align: center;
+    color:firebrick;
+}
+#mychoice1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:  50px;
+    text-align: left;
+    color:blue
+}
+.title{
+    color:blueviolet
+}
+p{
+    color: green;
+
+
+} 

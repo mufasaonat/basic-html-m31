@@ -1,0 +1,36 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    margin: 25px;
+}
+h3{
+    margin-left: 40px;
+}
+
+img{
+    display: block; /* Ensure block-level behavior */
+    margin-left: auto;
+    margin-right: auto;
+    border: white solid;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: gray;
+    padding: 10px;
+    border: lightgray solid;
+}

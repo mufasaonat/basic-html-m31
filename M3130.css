@@ -1,0 +1,48 @@
+.container{
+
+    /* border: 1px solid black; */
+    width: 50%;
+    background-color:rgb(240, 255, 155);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+
+}
+.container{
+
+    /* border: 1px solid black; */
+    width: 50%;
+    background-color:rgb(225, 225, 123);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+
+}
+
+h1{
+    font-size: 150%;
+    color:crimson
+}
+
+#mychoice{
+    font-size: 50px;
+    text-align: center;
+}
+
+.title{
+    color:tomato
+
+}
+.group{
+    color:darkblue
+
+}
+p{
+    color:goldenrod
+
+}
+p{
+    color:#758AAA;
+}

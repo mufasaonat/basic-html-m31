@@ -1,0 +1,30 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+}
+.contrainer{
+    border: 5px solid white;
+    width: 70%;
+    background-color: pink;
+    margin-top: 50px;
+    margin: auto;
+    padding: 25px;
+}
+#mychoice{
+    font-size: 50px;
+    text-align: center;
+}
+.title{
+    font-size: 50px;
+    color: red;
+}
+.group{
+    color: yellow;
+    font-size: 20px;
+
+}
+img{
+    margin: auto;
+    border: whitesmoke;
+}
+
